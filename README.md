@@ -1,3 +1,5 @@
+[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+
 # Bayesian Inference with Turing
 
 This repository contains slides and Jupyter notebooks for a workshop on Bayesian inference provided by Professor Allen Downey, where the examples and solutions have been translated from Python/PyMC3 into Julia/Turing.
