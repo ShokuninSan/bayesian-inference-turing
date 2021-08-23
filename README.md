@@ -1,6 +1,6 @@
 # Bayesian Inference with Turing
 
-This repository contains slides and Jupyter notebooks for a workshop on Bayesian inference provided by @AllenDowney, where the examples and solutions have been translated from Python/PyMC3 into Julia/Turing.
+This repository contains slides and Jupyter notebooks for a workshop on Bayesian inference provided by Professor Allen Downey, where the examples and solutions have been translated from Python/PyMC3 into Julia/Turing.
 
 [The slides for the workshop are available as a Google doc](https://docs.google.com/presentation/d/e/2PACX-1vRfzvjPnyBevd1VBt8yxwP23xuddrcYgu1mYOsTE9o_ViWJqoxWMhzgcw-FPhfeeobEbXYoeJvsPuQ-/pub).
 [The original code/repo](https://github.com/AllenDowney/BayesianInferencePyMC)
